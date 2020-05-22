@@ -1,0 +1,31 @@
+body{
+	margin:0;
+	background: url('../images/isengard.jpg') fixed;
+	font-family: arial;
+	color: red;
+	padding: 5px;
+	margin: 40px;
+	font-size: 20px;
+	font-weight: 500
+}
+h1{
+	color: red;
+	font-size: 80px;
+}
+footer{
+	padding: 20px 20px;
+	color: red
+}
+footer a{
+	color:red
+}
+footer .left{
+	float: left
+}
+footer .right{
+	float: right
+}
+.float-left{
+	float:left;
+	margin: 0 20px 20px 0
+}

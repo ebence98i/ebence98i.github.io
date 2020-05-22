@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	background: url('../images/rivendell.jpg') fixed;
+	font-family: arial;
+	color: yellow;
+	padding: 5px;
+	margin: 40px;
+	font-size: 20px;
+	font-weight: 500
+	
+}
+h1{
+	color: yellow;
+	font-size: 80px;
+}
+footer{
+	padding: 20px 20px;
+	color: yellow
+}
+footer a{
+	color:yellow
+}
+footer .left{
+	float: left
+}
+footer .right{
+	float: right
+}
+.float-right{
+	float:right;
+	margin: 0 0 20px 20px
+}
